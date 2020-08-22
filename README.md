@@ -11,7 +11,7 @@ Source: [Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Approa
 
 The dataset used for the current case study has 41188 samples and 16 inputs.
 
-    bank_marketing_campaign.csv can be downloaded here.
+    bank_marketing_campaign.csv can be downloaded here: https://bit.ly/31a0EAL
 
 There are also 4 original datasets:
 
