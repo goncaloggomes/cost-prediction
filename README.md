@@ -1,5 +1,5 @@
 # Machine Learning Case Study: predicting minimum cost of a bank's telemarketing campaign
-A Data Science Machine Learning approach to predict the best candidates to be targeted for a marketing campaign
+A Data Science Machine Learning approach to predict the best candidates to be targeted for a marketing campaign.
 
 **About the project**
 
@@ -55,11 +55,11 @@ Output variable (desired target):
 
 **The current case study**
 
-From the data collected between 2008 and 2015, which includes data related with the recent financial global crisis that severely affected Portugal, the dataset stores information of a direct marketing campaign (phone calls) developed and implemented by the bank's marketing department in order to attract customers to subscribe term deposits, collecting and classifying the results as a binary categorical label: 'yes' and 'no'.
+The dataset stores information — 2008 to 2015 — of a marketing sales operation (telemarketing) implemented by a Portuguese bank’s marketing team to attract customers to subscribe term deposits, classifying the results as ‘yes’ and ‘no’ into a binary categorical variable.
 
-Until that time, their communication strategy was to reach the maximum number of clients, indiscriminately, and try to sell them the financial product over the phone. However, that approach, in addition to spending more resources because it would involve having several people calling all customers and also it used to consume a lot of time, it was also very uncomfortable for a vast number of clients who was wishing not to be disturbed by this type of action.
+Until that time, the strategy was to reach the maximum number of clients, indiscriminately, and try to sell them the financial product over the phone. However, that approach, besides spending many resources was also very uncomfortable for many clients disturbed by this type of action.
 
-In order to determine the costs for the campaign to be successful, the marketing team has reached to a conclusion:
+To determine the costs of the campaign, the marketing team has concluded:
 
     For each customer identified as a good candidate and therefore defined as a target of the campaign but doesn't subscribe the term deposit, the bank had a cost of 500 EUR.
     For each customer who was identified as a bad candidate and therfore excluded from the target of the campaign but was actually a good candidate and would subscribe the product, the bank had a cost of 2000 EUR.
@@ -67,15 +67,14 @@ In order to determine the costs for the campaign to be successful, the marketing
 **Machine Learning problem and objectives**
 
 We're facing a binary classification problem. Based on the above costs information, the goal is to train the best machine learning model that is able to predict and select the optimal number of candidates to be targeted by the campaign in order to reduce costs and maximizing efficiency.
-Project structure
+
+**Project structure**
 
 The project is divided into three main categories:
 
     EDA: Exploratory Data Analysis
     Data Wrangling: Cleaning and Feature Engeneering
-    Machine Learning: Predictive Modelling
-
-In this article, I'll be focusing only on the first section, the Exploratory Data Analysis (EDA). EDA usually reveals important insights about the data that can be (and usually is) used to build the predictive model and it can also help the data scientist to clearly identify the cleaning and feature engeneering steps.
+    Machine Learning: Predictive Modeling
 
 **Performance Metric**
 
