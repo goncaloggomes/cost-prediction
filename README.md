@@ -1,6 +1,12 @@
 # Machine Learning Case Study: predicting minimum cost of a bank's telemarketing campaign
 A Data Science Machine Learning approach to predict the best candidates to be targeted for a marketing campaign.
 
+### Ipynb code Exploratory Data Analysis - Part I [here](https://github.com/goncaloggomes/cost-prediction/blob/master/ML_bank_1analysis.ipynb)
+Medium article Exploratory Data Analysis - Part I [here](https://towardsdatascience.com/machine-learning-costs-prediction-of-a-marketing-campaign-exploratory-data-analysis-part-i-758b8f0ff5d4)
+
+### Ipynb code Data Cleaning & Feature Selection — Part II [here](https://github.com/goncaloggomes/cost-prediction/blob/master/ML_bank_2cleaning.ipynb)
+Medium article Data Cleaning & Feature Selection — Part II [here](https://towardsdatascience.com/costs-prediction-of-a-marketing-campaign-data-cleaning-feature-selection-partii-6aa5298909b5)
+
 **About the project**
 
 This Machine Learning project is based on the 2014 original study: "A data-driven approach to predict the success of bank telemarketing" (can be found here) in which the authors conducted a Data Mining (DM) project to predict the success of telemarketing calls for selling bank long-term deposits of a Portuguese retail bank.
